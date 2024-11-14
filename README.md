@@ -15,10 +15,11 @@ Contraintes
 Partie 1 : Analyse graphique des données (EDA)
 
 Diagrammes de répartition des données (type gaussienne sur les données)
-Vérification du nombre de données, si plusieurs données sont peu représentés (<3%) alors regrouper dans une seule et même catégorie, 1 pie chart avant/apres
+
 Nettoyage des données manquantes, encodage (OneHot, dictionnaire ou Sklearn Encoder)
 
 Boites à moustache avec données extrêmes si besoin 
+
 Heatmap + observations sur les corrélations
 
 
