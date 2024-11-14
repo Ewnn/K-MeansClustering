@@ -12,23 +12,16 @@ Contraintes
 -Exposer concrètement votre problématique / question à définir : quel est le but de votre modèle et à quelle situation métier peut il correspondre ?
 
 
-Partie 1 : Analyse graphique des données (EDA)
-
-Diagrammes de répartition des données (type gaussienne sur les données)
-
-Nettoyage des données manquantes, encodage (OneHot, dictionnaire ou Sklearn Encoder)
-
-Boites à moustache avec données extrêmes si besoin 
-
-Heatmap + observations sur les corrélations
-
 
 Partie 2: Model Building
 
 Utiliser un algorithme la librairie sklearn avec 3 paramètres différents (ex dans le cadre de l’algorithme random forest: max_depth, n_estimators,….)
 Affichage des metrics de votre model : coefficients/ accuracy / confusion matrix …  
 Sélection du meilleur paramétrage si le temps vous le permet
+
 Le model est-il en overfitting/underfitting/OK expliquer votre raisonnement ?
+
+
 Partie 3 : Implementation from scratch 
 
 Implementer votre algorithme en python basique et expliquer le pseudo code 
